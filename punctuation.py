@@ -15,4 +15,4 @@ punctuation_tokens = [token for token in tokens if token in string.punctuation]
 for punct in punctuation_tokens:
     for char in punct:
         print(char, end='', flush=True)
-        time.sleep(0.03)  # delay for 0.5 seconds
+        time.sleep(0.01)  
