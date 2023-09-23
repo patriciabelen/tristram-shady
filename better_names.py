@@ -12,6 +12,6 @@ results = ne_chunk(pos_tag(word_tokenize(shandy)))
 for result in results:
     if type(result) == Tree:
         name = ''
-        for nltk_result_leaf in nltk_result.leaves():
-            name += nltk_result_leaf[0] + ' '
-        print ('Type: ', nltk_result.label(), 'Name: ', name)
+        for result_leaf in result.leaves():
+            name += result_leaf[0] + ' '
+        print ('Type: ', result.label(), 'Name: ', name)
