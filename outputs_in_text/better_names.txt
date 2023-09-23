@@ -1,0 +1,448 @@
+Type:  ORGANIZATION Name:  LIFE 
+Type:  ORGANIZATION Name:  GENTLEMAN 
+Type:  PERSON Name:  Laurence Sterne Contents 
+Type:  PERSON Name:  Volume II 
+Type:  PERSON Name:  Volume III 
+Type:  PERSON Name:  Volume IV 
+Type:  PERSON Name:  Laurence Sterne Ταράσσει 
+Type:  PERSON Name:  Ἀλλὰ 
+Type:  ORGANIZATION Name:  THE 
+Type:  ORGANIZATION Name:  RIGHT 
+Type:  ORGANIZATION Name:  HONOURABLE 
+Type:  ORGANIZATION Name:  NEVER 
+Type:  GPE Name:  Life 
+Type:  PERSON Name:  Sir 
+Type:  ORGANIZATION Name:  GREAT 
+Type:  ORGANIZATION Name:  GOOD 
+Type:  ORGANIZATION Name:  SIR 
+Type:  PERSON Name:  Your 
+Type:  PERSON Name:  T H 
+Type:  ORGANIZATION Name:  LIFE 
+Type:  ORGANIZATION Name:  OPINIONS OF 
+Type:  ORGANIZATION Name:  TRISTRAM 
+Type:  ORGANIZATION Name:  Gent 
+Type:  GPE Name:  Pray 
+Type:  PERSON Name:  Sir 
+Type:  ORGANIZATION Name:  _HOMUNCULUS_ 
+Type:  ORGANIZATION Name:  HOMUNCULUS 
+Type:  PERSON Name:  Sir 
+Type:  ORGANIZATION Name:  BEING 
+Type:  ORGANIZATION Name:  HOMUNCULUS 
+Type:  GPE Name:  Puffendorf_ 
+Type:  PERSON Name:  Gentleman 
+Type:  PERSON Name:  Mr. _Toby Shandy_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  —he 
+Type:  PERSON Name:  _My Tristram 
+Type:  PERSON Name:  Mr. _Toby Shandy_ 
+Type:  ORGANIZATION Name:  _Pilgrim 
+Type:  ORGANIZATION Name:  _Horace_ 
+Type:  PERSON Name:  Mr. _Horace 
+Type:  GPE Name:  _March_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Bobby_ 
+Type:  ORGANIZATION Name:  _Westminster_ 
+Type:  GPE Name:  _May_ 
+Type:  PERSON Name:  Sir 
+Type:  PERSON Name:  January_ 
+Type:  PERSON Name:  Madam 
+Type:  ORGANIZATION Name:  Sciatica 
+Type:  GPE Name:  _November_ 
+Type:  PERSON Name:  Shandy_ 
+Type:  PERSON Name:  Gentleman 
+Type:  ORGANIZATION Name:  Moon 
+Type:  PERSON Name:  _Jupiter_ 
+Type:  GPE Name:  _Saturn_ 
+Type:  GPE Name:  _Venus_ 
+Type:  GPE Name:  _Flanders 
+Type:  GPE Name:  Fortune 
+Type:  ORGANIZATION Name:  HERO 
+Type:  PERSON Name:  No_ 
+Type:  PERSON Name:  Sir 
+Type:  GPE Name:  _Didius_ 
+Type:  PERSON Name:  _Didius_ 
+Type:  PERSON Name:  Sir 
+Type:  PERSON Name:  Sir 
+Type:  GPE Name:  B 
+Type:  GPE Name:  D 
+Type:  GPE Name:  E 
+Type:  GPE Name:  F 
+Type:  GPE Name:  G 
+Type:  GPE Name:  H 
+Type:  GPE Name:  K 
+Type:  GPE Name:  L 
+Type:  GPE Name:  N 
+Type:  GPE Name:  O 
+Type:  PERSON Name:  P 
+Type:  GPE Name:  Q 
+Type:  PERSON Name:  _My Lord 
+Type:  PERSON Name:  Your Lordship 
+Type:  ORGANIZATION Name:  TRISTRAM 
+Type:  ORGANIZATION Name:  SOLEMNLY 
+Type:  GPE Name:  Prelate 
+Type:  GPE Name:  Pope 
+Type:  ORGANIZATION Name:  Potentate 
+Type:  PERSON Name:  Marquis 
+Type:  PERSON Name:  Earl 
+Type:  GPE Name:  Viscount 
+Type:  PERSON Name:  Baron 
+Type:  GPE Name:  Christendom 
+Type:  ORGANIZATION Name:  Great Folks 
+Type:  PERSON Name:  Marquis 
+Type:  PERSON Name:  Earl 
+Type:  GPE Name:  Viscount 
+Type:  PERSON Name:  Baron 
+Type:  ORGANIZATION Name:  Majesty 
+Type:  PERSON Name:  Mr. _Dodsley_ 
+Type:  PERSON Name:  _De 
+Type:  ORGANIZATION Name:  Moon 
+Type:  ORGANIZATION Name:  PATRONS 
+Type:  PERSON Name:  _Bright Goddess_ 
+Type:  ORGANIZATION Name:  CANDID 
+Type:  PERSON Name:  Miss CUNEGUND 
+Type:  PERSON Name:  _Tristram Shandy 
+Type:  PERSON Name:  _Rosinante_ 
+Type:  ORGANIZATION Name:  HERO 
+Type:  PERSON Name:  _Rosinante 
+Type:  ORGANIZATION Name:  _Yanguesian_ 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Don _Quixote 
+Type:  ORGANIZATION Name:  HUMILITY 
+Type:  GPE Name:  ——and 
+Type:  ORGANIZATION Name:  _La Mancha_ 
+Type:  GPE Name:  —and 
+Type:  PERSON Name:  Yorick 
+Type:  ORGANIZATION Name:  _Yorick 
+Type:  GPE Name:  _Danish_ 
+Type:  GPE Name:  England 
+Type:  GPE Name:  _Horwendillus_ 
+Type:  GPE Name:  _Denmark_ 
+Type:  PERSON Name:  Mr. _Yorick_ 
+Type:  GPE Name:  Christian 
+Type:  PERSON Name:  Jester 
+Type:  PERSON Name:  _Hamlet_ 
+Type:  PERSON Name:  _Yorick_ 
+Type:  PERSON Name:  _Danish_ 
+Type:  PERSON Name:  Mr. _Noddy_ 
+Type:  GPE Name:  Europe 
+Type:  PERSON Name:  Sir 
+Type:  GPE Name:  _Danish_ 
+Type:  PERSON Name:  _Yorick_ 
+Type:  PERSON Name:  _Yorick_ 
+Type:  GPE Name:  _Yorick_ 
+Type:  PERSON Name:  _Yorick_ 
+Type:  PERSON Name:  _Yorick_ 
+Type:  GPE Name:  _Mortgagee_ 
+Type:  ORGANIZATION Name:  _Jester_ 
+Type:  PERSON Name:  _Homer_ 
+Type:  ORGANIZATION Name:  Interest 
+Type:  ORGANIZATION Name:  HERO 
+Type:  ORGANIZATION Name:  _Eugenius_ 
+Type:  PERSON Name:  _Eugenius_ 
+Type:  GPE Name:  _Yorick_ 
+Type:  ORGANIZATION Name:  CRUELTY 
+Type:  ORGANIZATION Name:  COWARDICE 
+Type:  ORGANIZATION Name:  MALICE 
+Type:  GPE Name:  ——and 
+Type:  PERSON Name:  _Yorick 
+Type:  PERSON Name:  _Eugenius_ 
+Type:  GPE Name:  _Yorick_ 
+Type:  PERSON Name:  _Yorick_ 
+Type:  PERSON Name:  _Eugenius_ 
+Type:  PERSON Name:  _Yorick_ 
+Type:  GPE Name:  _Eugenius_ 
+Type:  PERSON Name:  _Yorick_ 
+Type:  PERSON Name:  _Eugenius_ 
+Type:  GPE Name:  _Yorick_ 
+Type:  ORGANIZATION Name:  _Eugenius_ 
+Type:  GPE Name:  _Yorick_ 
+Type:  PERSON Name:  _Eugenius_ 
+Type:  GPE Name:  _Yorick_ 
+Type:  PERSON Name:  _Eugenius_ 
+Type:  GPE Name:  _Eugenius_ 
+Type:  GPE Name:  _Eugenius_ 
+Type:  PERSON Name:  _Sancho Pança_ 
+Type:  PERSON Name:  _Eugenius_ 
+Type:  PERSON Name:  _Shakespeare_ 
+Type:  PERSON Name:  _Eugenius_ 
+Type:  PERSON Name:  _Yorick_ 
+Type:  ORGANIZATION Name:  _Eugenius_ 
+Type:  PERSON Name:  _Eugenius_ 
+Type:  PERSON Name:  Alas 
+Type:  ORGANIZATION Name:  YORICK 
+Type:  GPE Name:  Alas 
+Type:  ORGANIZATION Name:  YORICK 
+Type:  PERSON Name:  —which 
+Type:  GPE Name:  _Great Britain_ 
+Type:  PERSON Name:  _Jack Hickathrift_ 
+Type:  PERSON Name:  _Tom Thumb_ 
+Type:  PERSON Name:  _Walter Shandy_ 
+Type:  PERSON Name:  God 
+Type:  PERSON Name:  _Walter Shandy_ 
+Type:  PERSON Name:  _Elizabeth Mollineux_ 
+Type:  PERSON Name:  _John Dixon_ 
+Type:  PERSON Name:  _James Turner_ 
+Type:  PERSON Name:  Esqrs 
+Type:  ORGANIZATION Name:  Trustees 
+Type:  PERSON Name:  _Walter Shandy_ 
+Type:  PERSON Name:  _Elizabeth Mollineux_ 
+Type:  PERSON Name:  _Walter Shandy_ 
+Type:  PERSON Name:  _Elizabeth Mollineux_ 
+Type:  GPE Name:  _London_ 
+Type:  ORGANIZATION Name:  _Shandy Hall_ 
+Type:  PERSON Name:  _Elizabeth Mollineux_ 
+Type:  PERSON Name:  _Elizabeth Mollineux_ 
+Type:  PERSON Name:  _Walter Shandy_ 
+Type:  PERSON Name:  _Elizabeth Mollineux_ 
+Type:  PERSON Name:  Dixon_ 
+Type:  PERSON Name:  _James Turner_ 
+Type:  PERSON Name:  Esqrs 
+Type:  PERSON Name:  _Elizabeth Mollineux_ 
+Type:  PERSON Name:  Trustees 
+Type:  PERSON Name:  _Elizabeth Mollineux_ 
+Type:  GPE Name:  _London_ 
+Type:  PERSON Name:  _Elizabeth Mollineux_ 
+Type:  PERSON Name:  _Elizabeth Mollineux_ 
+Type:  GPE Name:  _London_ 
+Type:  PERSON Name:  _Walter Shandy_ 
+Type:  PERSON Name:  _John Dixon_ 
+Type:  PERSON Name:  _James Turner_ 
+Type:  PERSON Name:  Esqrs 
+Type:  PERSON Name:  _John Dixon_ 
+Type:  PERSON Name:  _James Turner_ 
+Type:  PERSON Name:  Esqrs 
+Type:  PERSON Name:  _Walter Shandy_ 
+Type:  GPE Name:  _Shandy_ 
+Type:  GPE Name:  _Shandy_ 
+Type:  PERSON Name:  _Toby Shandy_ 
+Type:  GPE Name:  _September_ 
+Type:  ORGANIZATION Name:  _Tom Fool_ 
+Type:  PERSON Name:  _Bobby_ 
+Type:  GPE Name:  _Sunday_ 
+Type:  GPE Name:  _Grantham_ 
+Type:  ORGANIZATION Name:  _Trent_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  Mr. _Shandy_ 
+Type:  PERSON Name:  Queen _Elizabeth_ 
+Type:  ORGANIZATION Name:  _French_ 
+Type:  ORGANIZATION Name:  _French_ 
+Type:  ORGANIZATION Name:  Squirality 
+Type:  GPE Name:  _France_ 
+Type:  ORGANIZATION Name:  _Chateaus_ 
+Type:  PERSON Name:  Sir 
+Type:  FACILITY Name:  Grand Monarch 
+Type:  PERSON Name:  Sir _Robert Filmer_ 
+Type:  PERSON Name:  _Te Deum._ 
+Type:  PERSON Name:  _Toby Shandy_ 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Mr. _Shandy 
+Type:  PERSON Name:  Madam 
+Type:  ORGANIZATION Name:  _French_ Romances 
+Type:  PERSON Name:  Madam 
+Type:  GPE Name:  _Cervantes_ 
+Type:  ORGANIZATION Name:  DULCINEA 
+Type:  ORGANIZATION Name:  TRISMEGISTUS 
+Type:  ORGANIZATION Name:  ARCHIMEDES 
+Type:  ORGANIZATION Name:  NYKY 
+Type:  ORGANIZATION Name:  SIMKIN 
+Type:  ORGANIZATION Name:  CÆSARS 
+Type:  ORGANIZATION Name:  POMPEYS 
+Type:  ORGANIZATION Name:  NICODEMUS 
+Type:  PERSON Name:  Sir 
+Type:  ORGANIZATION Name:  BILLY 
+Type:  PERSON Name:  Sir 
+Type:  PERSON Name:  Sir 
+Type:  PERSON Name:  Sir 
+Type:  ORGANIZATION Name:  JUDAS 
+Type:  PERSON Name:  Sir 
+Type:  GPE Name:  Logick 
+Type:  PERSON Name:  Rhetorick 
+Type:  GPE Name:  —and 
+Type:  ORGANIZATION Name:  NATURE 
+Type:  PERSON Name:  _Cicero_ 
+Type:  GPE Name:  _Quintilian 
+Type:  PERSON Name:  Oratore_ 
+Type:  GPE Name:  _Isocrates_ 
+Type:  GPE Name:  _Aristotle_ 
+Type:  PERSON Name:  _Longinus_ 
+Type:  GPE Name:  _Skioppius_ 
+Type:  PERSON Name:  _Ramus_ 
+Type:  PERSON Name:  _Farnaby_ 
+Type:  PERSON Name:  _Crackenthorp_ 
+Type:  ORGANIZATION Name:  _Jesus College_ 
+Type:  GPE Name:  Bagatelle_ 
+Type:  ORGANIZATION Name:  _Ponto_ 
+Type:  ORGANIZATION Name:  _Cupid_ 
+Type:  PERSON Name:  _Jack 
+Type:  PERSON Name:  Dick_ 
+Type:  PERSON Name:  _Tom_ 
+Type:  PERSON Name:  _Bob_ 
+Type:  ORGANIZATION Name:  _Epsom_ 
+Type:  PERSON Name:  _Andrew_ 
+Type:  GPE Name:  Algebra 
+Type:  PERSON Name:  _Nick_ 
+Type:  ORGANIZATION Name:  DEVIL 
+Type:  ORGANIZATION Name:  TRISTRAM 
+Type:  ORGANIZATION Name:  EPIPHONEMA 
+Type:  ORGANIZATION Name:  EROTESIS 
+Type:  ORGANIZATION Name:  _Tristram_ 
+Type:  PERSON Name:  _Tristram_ 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Sir 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Tis 
+Type:  ORGANIZATION Name:  _Greece_ 
+Type:  GPE Name:  _Rome_ 
+Type:  ORGANIZATION Name:  _Parismus_ 
+Type:  GPE Name:  _Parismenus_ 
+Type:  GPE Name:  _England_ 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Madam 
+Type:  GPE Name:  Papist 
+Type:  ORGANIZATION Name:  Republick 
+Type:  ORGANIZATION Name:  MEMOIRE 
+Type:  PERSON Name:  Docteurs 
+Type:  ORGANIZATION Name:  SORBONNE 
+Type:  PERSON Name:  Docteurs 
+Type:  ORGANIZATION Name:  SORBONNE 
+Type:  PERSON Name:  Rituels 
+Type:  PERSON Name:  Le Chirurgien 
+Type:  ORGANIZATION Name:  R 
+Type:  PERSON Name:  Les Théologiens 
+Type:  PERSON Name:  Jesus Christ 
+Type:  PERSON Name:  Thomas 
+Type:  GPE Name:  Pueri 
+Type:  PERSON Name:  Le 
+Type:  PERSON Name:  Jesus Christ 
+Type:  PERSON Name:  Dieu 
+Type:  ORGANIZATION Name:  Conseil 
+Type:  PERSON Name:  Pape 
+Type:  ORGANIZATION Name:  Conseil 
+Type:  ORGANIZATION Name:  DE 
+Type:  PERSON Name:  Mr. _Tristram Shandy_ 
+Type:  PERSON Name:  De Romigny_ 
+Type:  PERSON Name:  _De Marcilly_ 
+Type:  ORGANIZATION Name:  HOMUNCULI 
+Type:  ORGANIZATION Name:  HOMUNCULI 
+Type:  PERSON Name:  Mr. _Shandy_ 
+Type:  ORGANIZATION Name:  _Romish_ Rituals 
+Type:  ORGANIZATION Name:  _Sorbonne_ 
+Type:  PERSON Name:  St. _Thomas Aquinas_ 
+Type:  PERSON Name:  _La 
+Type:  PERSON Name:  Thomas 
+Type:  ORGANIZATION Name:  _Sorbonne_ 
+Type:  PERSON Name:  Paris Edit 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  GPE Name:  _France_ 
+Type:  GPE Name:  _Anne_ 
+Type:  PERSON Name:  _Addison_ 
+Type:  PERSON Name:  Ἀκμὴ 
+Type:  PERSON Name:  _Toby_ 
+Type:  ORGANIZATION Name:  SHANDY 
+Type:  ORGANIZATION Name:  DINAH 
+Type:  ORGANIZATION Name:  SHANDY 
+Type:  PERSON Name:  _Tacitus_ 
+Type:  ORGANIZATION Name:  TOBY 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Whether 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  Madam 
+Type:  GPE Name:  Namur 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  Madam 
+Type:  PERSON Name:  _Toby_ 
+Type:  ORGANIZATION Name:  DINAH 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Dinah_ 
+Type:  GPE Name:  _Venus_ 
+Type:  ORGANIZATION Name:  _Copernican_ 
+Type:  ORGANIZATION Name:  _Shandean System_ 
+Type:  PERSON Name:  Plato_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Amicus Plato_ 
+Type:  ORGANIZATION Name:  DINAH 
+Type:  ORGANIZATION Name:  TRUTH 
+Type:  PERSON Name:  God 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Shandy_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  ORGANIZATION Name:  MURDER 
+Type:  GPE Name:  _Foro 
+Type:  ORGANIZATION Name:  MURDER 
+Type:  ORGANIZATION Name:  DEATH 
+Type:  PERSON Name:  _Toby_ 
+Type:  GPE Name:  That 
+Type:  ORGANIZATION Name:  _Argumentum 
+Type:  PERSON Name:  Verecundiam 
+Type:  PERSON Name:  Absurdo 
+Type:  ORGANIZATION Name:  TREASURY 
+Type:  ORGANIZATION Name:  _Ars Logica_ 
+Type:  ORGANIZATION Name:  _Argumentum Fistulatorium_ 
+Type:  ORGANIZATION Name:  _Argumentum Baculinum_ 
+Type:  ORGANIZATION Name:  _Argumentum 
+Type:  PERSON Name:  Crumenam_ 
+Type:  ORGANIZATION Name:  _Argumentum Tripodium_ 
+Type:  ORGANIZATION Name:  _Argumentum 
+Type:  PERSON Name:  Rem_ 
+Type:  PERSON Name:  Bishop _Hall_ 
+Type:  PERSON Name:  _Joseph Hall_ 
+Type:  PERSON Name:  Bishop 
+Type:  GPE Name:  _Exeter_ 
+Type:  ORGANIZATION Name:  First 
+Type:  GPE Name:  _Decads_ 
+Type:  ORGANIZATION Name:  _London_ 
+Type:  PERSON Name:  _John Beal_ 
+Type:  GPE Name:  _Great Britain_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Dinah_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  Toby 
+Type:  PERSON Name:  Sir 
+Type:  PERSON Name:  _Momus_ 
+Type:  GPE Name:  _Dido_ 
+Type:  GPE Name:  _Æneas_ 
+Type:  ORGANIZATION Name:  _Italians_ 
+Type:  PERSON Name:  Madam 
+Type:  FACILITY Name:  Pentagraphic Brethren 
+Type:  ORGANIZATION Name:  _Camera_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  GPE Name:  _Alps_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  Pictures 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  GPE Name:  _York_ 
+Type:  PERSON Name:  _Dover_ 
+Type:  GPE Name:  _Cornwall_ 
+Type:  GPE Name:  _Penzance_ 
+Type:  ORGANIZATION Name:  Sceptic 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  GPE Name:  _Namur_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  GPE Name:  _London_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  _Toby_ 
+Type:  PERSON Name:  Sir 
