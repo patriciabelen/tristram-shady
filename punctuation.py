@@ -5,7 +5,7 @@ import string
 import text 
 import time
 
-text = text.text 
+text = text.shandy
 
 tokens = word_tokenize(text)
 punctuation_tokens = [token for token in tokens if token in string.punctuation]

@@ -1,4 +1,4 @@
-text = '''
+shandy = '''
 THE
 LIFE AND OPINIONS
 OF

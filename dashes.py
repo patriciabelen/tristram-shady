@@ -1,7 +1,7 @@
 import re
 import text
 
-text = text.text
+text = text.shandy
 
 pattern = r'————|———|——|—'
 
