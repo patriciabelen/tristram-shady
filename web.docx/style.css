@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+body {
+    font-family: 'Libre Baskerville', serif;
+    background-color: black;
+    font-size: 16px;
+    padding: 0 50px;
+    line-height: 1.7;
+}
+h2 {
+    color: #999;
+    font-size: 1.5em;
+    margin: 50px 0;
+    text-align: center;
+}
+p {
+    color: #999;
+    margin: 20px 0;
+}
+body.tldr:hover p, 
+body.tldr:hover .c2 {
+    color:black;
+    cursor:help;
+} 
+.tldr .c2 {
+    background-color: #eee;
+    color: #eee;
+}
+.tldr .c2:hover {
+    background-color: yellow;
+    cursor:pointer
+}
+a {
+    color: black;
+
+}
+a:hover, a:visited {
+    color: black;
+}
+.punc p, .punc .c2, 
+.morse p, .morse .c2 {
+    color: #eee;
+}
