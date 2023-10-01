@@ -51,10 +51,19 @@ a:hover, a:visited {
 b {
     font-weight: 700;
 }
+em {
+    display: inline;
+    font-style: italic;
+}
+sup {
+    display: none;
+}
 .show-word {
     color: #000 !important;
 }
-
+center {
+    text-align: center;
+}
 
 .blocker {
     background-color:rgba(255, 255, 255, 0.7) !important;
@@ -90,8 +99,28 @@ b {
 #modal-3 a[href="#modal-2"], #modal-3 a[href="#modal-3"], 
 #modal-4 a[href="#modal-2"], 
 #modal-4 a[href="#modal-3"], 
-#modal-4 a[href="#modal-4"] {
+#modal-4 a[href="#modal-4"], 
+#modal-4 .c7, 
+#modal-5 a[href="#modal-2"], 
+#modal-5 a[href="#modal-3"], 
+#modal-5 a[href="#modal-4"], 
+#modal-5 a[href="#modal-5"], 
+#modal-5 .c7,
+#modal-5 .c8,
+#modal-6 a[href="#modal-2"], 
+#modal-6 a[href="#modal-3"], 
+#modal-6 a[href="#modal-4"], 
+#modal-6 a[href="#modal-5"], 
+#modal-6 a[href="#modal-6"], 
+#modal-6 .c7, 
+#modal-6 .c8, 
+#modal-6 .c9 
+{
     color: #000 !important;
+    pointer-events: none;
+}
+#modal-4 .c9 {
+    color: white !important;
     pointer-events: none;
 }
 #modal-3 {
@@ -107,6 +136,12 @@ b {
 #modal-5 {
     background: #fff;
     min-width: 50% !important;
+    color: #fff;
+}
+
+#modal-6 {
+    background: #fff;
+    min-width: 40% !important;
     color: #000;
 }
 
@@ -130,22 +165,36 @@ b {
 }
 
 
-#ifrm1, #ifrm2 {
-    display: none;
+.tooltip {
+    position: relative;
+    display: inline-block;
+    color: red;
+    cursor: pointer;
+  }
+  
+  .tooltip .tooltipimg {
+    visibility: hidden;
+    width: 400px;
+    text-align: center;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
     opacity: 0;
-    transition: opacity 1.5s linear;
+    transition: opacity 0.3s;
   }
-  #trig1:hover + iframe {
-    display: block;
-    opacity: 1;
-    transition: opacity 1.5s linear;
-    width: 480px;
-    height: 256px;
+  
+  .tooltip .tooltipimg::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
   }
-  #trig2:hover + iframe {
-    display: block;
+  
+  .tooltip:hover .tooltipimg {
+    visibility: visible;
     opacity: 1;
-    transition: opacity 1.5s linear;
-    width: 480px;
-    height: 322px;
   }
