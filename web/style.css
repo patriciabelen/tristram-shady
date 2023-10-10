@@ -158,6 +158,7 @@ hr.line {
     margin-top: 40px;
     border: 1px dotted #ccc;
 }
+.cb-instructions-go, 
 .cb-german-answer, 
 .cb-french-answer, 
 .cb-receive-answer, 
@@ -165,6 +166,7 @@ hr.line {
 .cb-last-answer {
 	display: none;
 }
+input#cb-instructions, 
 input#cb-german, 
 input#cb-french, 
 input#cb-receive, 
@@ -173,6 +175,7 @@ input#cb-last {
     width: 18px;
     height: 18px;
 }
+input#cb-instructions[type=checkbox]:checked ~ .cb-instructions-go, 
 input#cb-german[type=checkbox]:checked ~ .cb-german-answer, 
 input#cb-french[type=checkbox]:checked ~ .cb-french-answer, 
 input#cb-receive[type=checkbox]:checked ~ .cb-receive-answer, 
