@@ -158,14 +158,26 @@ hr.line {
     margin-top: 40px;
     border: 1px dotted #ccc;
 }
-.cb-german-answer, .cb-french-answer, .cb-receive-answer {
+.cb-german-answer, 
+.cb-french-answer, 
+.cb-receive-answer, 
+.cb-history-answer, 
+.cb-last-answer {
 	display: none;
 }
-input#cb-german, input#cb-french, input#cb-receive {
+input#cb-german, 
+input#cb-french, 
+input#cb-receive, 
+input#cb-history, 
+input#cb-last {
     width: 18px;
     height: 18px;
 }
-input#cb-german[type=checkbox]:checked ~ .cb-german-answer, input#cb-french[type=checkbox]:checked ~ .cb-french-answer, input#cb-receive[type=checkbox]:checked ~ .cb-receive-answer {
+input#cb-german[type=checkbox]:checked ~ .cb-german-answer, 
+input#cb-french[type=checkbox]:checked ~ .cb-french-answer, 
+input#cb-receive[type=checkbox]:checked ~ .cb-receive-answer, 
+input#cb-history[type=checkbox]:checked ~ .cb-history-answer, 
+input#cb-last[type=checkbox]:checked ~ .cb-last-answer {
 	display: block;
 }
 
