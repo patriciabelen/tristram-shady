@@ -188,22 +188,72 @@ label {
     padding-bottom: 100px;
 }
 #punctuation {
-    width: 75%;
+    width: 80%;
     margin: 0 auto;
     padding-bottom: 100px;
 }
-#tldr {
+#common #addlink p, 
+#common #addlink h3, 
+#common #addlink h4, 
+#names #addlink p, 
+#names #addlink h3, 
+#names #addlink h4, 
+#tldr #addlink p, 
+#tldr #addlink h3, 
+#tldr #addlink h4, 
+#discourse #addlink p, 
+#discourse #addlink h3, 
+#discourse #addlink h4, 
+#commands #addlink p, 
+#commands #addlink h3, 
+#commands #addlink h4 {
+color: #fff;
+}
+#common #addlink .show-word, 
+#discourse #addlink p span.c7, 
+#discourse #addlink p span.c9 .show-word, 
+#commands #addlink p span.c7, 
+#commands #addlink p span.c9  {
+    color: #000;
+    }
+#commands #addlink p span.c9 a, 
+#commands #addlink p span.c9 a:hover  {
+    color: #000 !important;
+    font-weight: 400;
+    background: none;
+    }
+#names #addlink a.hidelink, 
+#names #addlink a.hidelink:hover, 
+#tldr #addlink a.hidelink, 
+#tldr #addlink a.hidelink:hover, 
+#discourse #addlink a.hidelink, 
+#discourse #addlink a.hidelink:hover {
+color: #000;
+font-weight: 400;
+}
+#common {
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
+#names {
     width: 60%;
     margin: 0 auto;
     padding-bottom: 100px;
 }
+
+#tldr {
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
 #discourse {
-    width: 45%;
+    width: 40%;
     margin: 0 auto;
     padding-bottom: 100px;
 }
 #commands {
-    width: 33%;
+    width: 30%;
     margin: 0 auto;
     padding-bottom: 100px;
 }
@@ -320,3 +370,18 @@ div.marquee > div.marquee-text {
     visibility: visible;
     opacity: 1;
   }
+
+  
+  #morseCode {
+    font-size: 16px;
+    animation: scrollUp 30s linear infinite;
+}
+
+@keyframes scrollUp {
+    0% {
+        transform: translateY(0%);
+    }
+    100% {
+        transform: translateY(-50%);
+    }
+}
